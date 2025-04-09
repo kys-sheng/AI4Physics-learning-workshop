@@ -1,0 +1,36 @@
+{
+    "os": "macOS-15.1-arm64-arm-64bit",
+    "python": "3.9.0",
+    "heartbeatAt": "2025-04-09T10:52:12.775840",
+    "startedAt": "2025-04-09T10:52:09.296765",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/kys-sheng/AI4Physics-learning-workshop",
+        "commit": "ea083fca832983155be1bc1a192c1c8ea2402c88"
+    },
+    "email": "j.camargo-molina@imperial.ac.uk",
+    "root": "/Users/eliel/Dropbox/ML4MB/AI4Physics-learning-workshop",
+    "host": "MacBook-Pro.physics.uu.se",
+    "username": "eliel",
+    "executable": "/Users/eliel/opt/anaconda3/envs/workhorse/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 16,
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 14.189044952392578
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 128.0
+    }
+}
